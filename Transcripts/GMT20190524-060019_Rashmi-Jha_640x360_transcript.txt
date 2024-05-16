@@ -1,0 +1,105 @@
+Speaker A: Hello Naveen.
+Speaker B: Thanks for keeping this session.
+Speaker A: No worries, Naveen. I realized that these were the last ones, so you shouldn't miss them.
+Speaker B: Yes.
+Speaker A: So, shall we begin?
+Speaker B: Yeah, please.
+Speaker A: Okay. So did you get time to prepare for any subject related to Earth?
+Speaker B: Yes. Yes. Actually I have prepared a subject that is related to water system and projects. Related. Okay. You have given me assignment that I have to prepare a subject. Okay. And related to instruction. Okay. And how will you instruct to your subordinates?
+Speaker A: Right?
+Speaker B: Yes. So that I have prepared.
+Speaker A: Good. Let's start.
+Speaker B: Okay. So first I will talk about that water system, okay. Because I'm looking after this area. So I'm just explaining you as you are. You're my subordinate. Okay? So. And you are a new joiny. Okay. So first I would like to introduce about the water system. Okay. Here we have a four water system. One is pretreatment plant. Another one is DM plant. Here we are calling it treated process water. Okay. And we have two more plant which is located in different, different department. One is located in plant number five and another is located in plant number seven. That is our combo plant which is having ro system. That is reverse osmosis, Edi and uv. Combination of uv. And also we have a recirculation pump and a storage tank to continuous recirculation of the system.
+Speaker A: Okay. So what is the capacity of the treated process water plant?
+Speaker B: So this is our basic thing, okay. Which we are handling here. And now after this, you have to handle these. All these things and monitor all the logbooks related to the related to the plant. So first I will describe you about the treated process water plant, okay. Because this is very important to know in detail because after this session or this conversation you have to handle. So you should know about each and everything about that particular thing, okay? So in treated process water plant, first I will tell you. We have a two lakh 25,000 liter tank, okay. Where we are. Wherever that Akwin water is coming. Water is coming in that tank. We are storing water in that tank. And then we are lifting the water from that tank to the another tank which is located in treated process water system. We have a 120 kl tank over here. And we are storing the water in this. In this tank. We are not doing any dosing, chemical or any treatment. This is just a storage tank. Then we are lifting the water from this tank and it is going to the multi grade filter. Multi grade filter. As you know, the multigrade filter, sands and pebbles are there. Okay. And these only this multi grid filter is only using to remove suspended solids. Okay. Then we have an active carbon filter. ACF. We are calling it acF. An activated carbon filter is using to absorb the abnormality. Absorb the. We can say the that that particle which is left in multigrade filter. These are trapping here. Okay. Also it is soaking the chlorine. If chlorine is coming the water. So it is soaking it. Okay. So it is removing the chlorine also. Then after this we have a cation unit in cation bed. As you know, cation resin are filling. Okay. The raisin, what is the reason number? So raisin number is indiana to 225.
+Speaker A: Okay. So what is the purpose of cation unit?
+Speaker B: That we are filling here. Then after this we have a anion unit. Cation, anion. And after that degasser and mix bed.
+Speaker A: Okay.
+Speaker B: So anion is using cation. As you know cation is using for the negative ion and anion is using for the positive ions. Okay. So negative and positive. Whatever the that impute is in the water. So it is removing from these, both these all the cation and anion mixed beds. And after that we are getting the conductivity is less than 5.1 microsiemens per centimeter. After anion we have a criteria to reduce the conductivity less than 30 microsiemens per centimeter. Okay. So in the, in between these uh, units we don't have any dosing. But after mixed bed we have a dosing. We are putting sodium hypochlorite over there to maintain the chlorine level in the water. And this chlorine level will reduce the impurities of water. Okay. Then we are distributing this water to the plants. So I would like to tell you, we have different, different plants overall. We have ten plants in this industry, in this company. So this water is moving to the ten is going to the ten plants. That is first is treated. That is plant number one, two, a two, b five. And another one is 6789 and ten. So we are distributing the water in these plants. After this they are using the water plant. Plant person are using the water to manufacture them. Intermittent only. They are not using this water for Pp area audit processing area. Or we can say l three area. We have divided the plant in three levels. L one, l two and l three. So this water is only using for l one area.
+Speaker A: Okay.
+Speaker B: Yeah. The l one area is intermediate area. Okay. And second other if I would like about, I will. I would like to talk about that another second stream. That is a purified water plant. Okay. In second stream we have a multi grade filter softener, ultra filtration storage tank. First pass arrow and storage. Another storage tank are there. Okay. That is ss three kl tank. And this water is distributing to the two plants which is located in plant number five. And another is located in plant number seven. As I have already discussed. So in plan number five we have. I have already told you about the scheme that Ro Edi uv and storage.
+Speaker A: Okay.
+Speaker B: And in plan number seven, same steam are there. But the capacity is different. In plan number five, capacity is 1 meter cube per hour. And plant number seven capacity is 0.5 meters cube per hour. But in pretreatment water, pretreatment plant. This is the most important part of this water system. This is heart of water system. We can say here we have ultra filtration unit. First pass ro unit. But we are doing continuous monitoring in this system. And in pre treatment plant we are maintaining the SMBs level to remove the chlorine particle and anti skeleton, right? Yeah. To remove the scaling of the r membrane. After this water is going to the both the plant, plant number five and plant number seven. But in plant number five and seven, the major part is ToC analyzer. The ToC analyzer is using to continuous monitoring the ToC level, total organic compound level in the water system. Okay. The ToC we are maintaining here less than 500 ppm. Sorry. Ppb. 500 ppp if it will go above this level. So immediately we have to raise a deviation. Okay. So you have to monitor continuous monitor of this part. Because we have already put a printer over there. Okay. And every 1 hour we are getting the reading of ToC and some critical parameters like conductivity and ph. So this part is very very important. And daily basis we are maintaining the log sheet. And every hour we are filling this lock sheet. Okay. So this is the overall water system. Okay. Which you have to handle after today or I can say now.
+Speaker A: Share the document with me which I could refer to later.
+Speaker B: Yes, definitely. I would like to tell you about the documentation document part also. Okay. First you have to read all the sops related to this. We have around eleven sops related to purifier water system. Okay. So. But first Sop is that tank cleaning. Okay. Another one is dosing chemicals, preparation of dosing chemicals. Third one is inward and outward of chemicals. Fourth one is operation of purified water system. Fifth one is operation of treated passive water system. Six is maintaining the logbooks and records.
+Speaker A: Okay.
+Speaker B: And 7th is issuance of chemicals from warehouse. And 8th is cip of ro membranes. Eight. 9th is CIP of ultra filtration membranes. 10th is sanitization of purifier water system. And 11th is sanitization of tt plus water system.
+Speaker A: Okay. So I would request you to share or tell me where to access them to contact if I have any queries.
+Speaker B: Okay. You have to directly contact to me. You will directly report to me. Okay. If I'm not available in the company. So you can directly report to our engineering head. Okay. Because I am directly reporting to him.
+Speaker A: Okay, cool. Great. Let's begin.
+Speaker B: So actually I've also prepared two question. Okay. In different. Different section. One is ph and other one is uh. Pressure differential of filter.
+Speaker A: Okay.
+Speaker B: That question recently raised. Okay. And I remembered what I answered. That's why. So first question is when auditor came there in plan number five, purify order system. Okay. Then ph value was actually as per our limit, the ph value is five to seven ph. It should be five to seven between five to seven ph. But auditor raised the question why this PhD is going up as your limit is between five to seven ph. Okay. So I've explained that, sir, we have already noticed this earlier.
+Speaker A: I am your auditor and okay. You have given me background. Okay. So let me ask you this question. And you can. We can go ahead in the same mode.
+Speaker B: Exactly.
+
+Speaker A: Okay. So Naveen, I observed that for this batch probably this ph is going up. It's hitting your 7.58. So why do you think this is happening?
+Speaker B: Yes sir. Actually we have already noticed this earlier. Okay. But same thing for this only. We have made this system accordingly that if any ph. So ma'am, just a minute. The battery is low.
+Speaker A: Let's begin. Okay, so one question for you. So when you are explaining things to auditor, does he interrupt in between or does he allow you to explain everything and then ask ask you questions?
+Speaker B: Some auditor interrupt. But mostly auditor allow us to explain properly. Yes. Some indian auditors we can say.
+Speaker A: I know. Yes, they are bit less patient than.
+Speaker B: Exactly. Exactly. Yeah. So sir, as per your question, I've already noticed this earlier. And we have made this system effectively according to this criteria. If this ph value will increase, okay. This water will not go to the storage tank and it will not fit to the EDI electrode ionization. Whenever this ph will be increased automatically the dumping valve will be open and outlet valve will close. So still the this ph will not come into the range. This will continuously dump and water will not go ahead. So this system is made according to this range. Okay. And if you're talking about the ph, why this ph is increasing? If we are holding the this system up to two to 3 hours. So while starting the system, the ph value will go up, little bit up. Okay. But after settlement of the system or normal operation, during normal operation, the ph will come down.
+Speaker A: And how much time does it take to settle? And why does it happen that it takes that time to settle?
+Speaker B: Yes, because there is a lot of process. Okay. This water is coming from the pretreatment, as I explained you, this is, this water is coming to the pretreatment plant. Okay. And if our system is in standby condition, okay, that P's sensor, Psi water is not flowing. This p's sensor, okay. So this p's sensor get dry. So during this, the water ph will go up because whenever water flow starts, so it will sense the limit, it will sense the reading, transmit the reading to the plC.
+Speaker A: So do you mean to say that this sensor goes dry?
+Speaker B: Yes, definitely. Our system is in standby condition. Okay. Water will not flow through P's sensor. Okay. So that that duration, this will only show that reading, okay. Because P's sensor tip is dry.
+Speaker A: Okay.
+Speaker B: Okay. So it will all always show the reading in higher side. Okay. But during a normal operation, it takes within a minute of time that the time is, uh, 45 2nd. Okay. Delay time is after passing the water in from this pa sensor. Okay. It uh, it will be wet. And then it flows, it will sense the proper reading as per the our criteria.
+Speaker A: Do you mean to say that after 45 seconds, uh, the ph will stabilize. Okay. And uh, during this, uh, during these 45 seconds, yeah, water won't flow.
+Speaker B: Yeah. Water will not flow.
+Speaker A: Yeah. Because the walls are closed.
+Speaker B: Exactly. The water hold, the water will be dumped out.
+
+Speaker A: And can you show me how, what is the process of, can you tell me what is the process of the dumping of water? Because this. Yeah, I will tell you.
+Speaker B: We have a storage tank, right. What is coming storage tank. Right. Then we have a pump, water flowing through that pump. But every, because this whole system is based on plc.
+Speaker A: Okay.
+Speaker B: So every input or output has some delay time, okay. For 32nd or 45 2nd. Okay. So whenever water start flowing, because our that storage tank, circulation tank, okay. Where circulation pumps are, there, that tanks are filled. Okay. The level is high level.
+Speaker A: Okay.
+Speaker B: If there is no need to fill the water in that tank, okay. Because that tank level is already high. So this RO system will not start because there is no need to because this is a generation system. Water generation system. Right. Okay. This system will not start.
+Speaker A: Okay.
+Speaker B: But every after 2 hours, okay, we have a command. If there is no requirement of water in that tank, but it will start automatically start circulation of water.
+Speaker A: Okay.
+Speaker B: So after every, after 2 hours it will start. But when the system will start, there is a series of sensors. One is peer sensor. Another one is conductivity sensor. This water will pass through P's sensor and conductivity sensor, p's sensor will start sensing the ph of water.
+Speaker A: Okay.
+Speaker B: If water is first our small pump will start. Okay. The flow will less. Okay. Then after 32nd our high pressure pump will start. The flow will be high, right. Whenever this pump will start, high pressure pump and start filling the ro membrane.
+Speaker A: Okay.
+Speaker B: And this pa sensor is located after ro membrane. Up till the filling of that ro membrane this water will not pass through the peer sensor, okay. Okay. Till the time that peer sensor will dry, right. Okay. Then whenever this water will start passing through that P's sensor, okay. After arrow start wetting, okay, this water, this peer sensor will wet the and start sensing the reading. The actual reading of that water will show, okay. Only that time.
+Speaker A: Okay.
+Speaker B: Because before then, because last 2 hours the system is, was in standby condition, ideal condition. Okay. What is not flowing. So whenever this sensor, that time the sensor was wet dry, right. So it show always higher reading. Right.
+Speaker A: So what happens to the water in the Ro system before the p's sensor.
+Speaker B: In Ro system, right. This is the Roman. This is just like a filter. Okay. The filter size is pore sizes.
+Speaker A: So when will it get dumped after that?
+Speaker B: I'm telling you. After arrow. Okay, the pa sensor was there, right. A PA sensor will sense the reading. We have a two, we have two walls. One is dumping walls, another one is out. Outlet wall. Okay. If the pH reading was under limit. Okay. That outlet valve will open.
+Speaker A: Okay.
+Speaker B: If ph reading is not within the range that outlet wall will not open. The dumping valve will open. Outlet valve will close and water will not pass in Edi. Okay. Continuous water started dumping.
+Speaker A: Continuous water.
+Speaker B: Continuous water.
+Speaker A: Okay. So the water in the arrow will be dumped.
+Speaker B: Yes. Okay, this is the processor.
+Speaker A: This is the, yeah. So have you documented it? Uh, have you, is it, is there an sop for it or is there any documentation for it?
+Speaker B: Yes, definitely. We have operation or purified water operation sop and we have clearly mentioned it.
+Speaker A: Okay. So after every 45, I mean after.
+Speaker B: Every after 2 hours, every after 2 hours water will come in recirculation.
+Speaker A: What do you do with the dumped water? How do you use it? Or is it.
+Speaker B: No, no. It is directly going to the ETP.
+Speaker A: It is directly going to the water which is thrown out because the PH was high. So the water that is discarded by the system, what do you do with that water?
+Speaker B: That water is going to the EDP.
+
+Speaker A: EDP. Okay. Okay. Cool part because this is our last session. Okay. And the last session is on next. You were in Wednesday, Monday. Monday you could not attend the month. You will not be able to attend the Monday night.
+Speaker B: So actually go next day. I'm not there.
+Speaker A: Right. So I would like to know what have you learned so far? What is your feedback about the whole coaching session?
+Speaker B: No, what will your name, when will be our next session?
+Speaker A: So, okay. So consider this as our last interaction. Okay. Because I am not sure that if you are await, if you're not available for the next entire week, how are we going to take it? I'm not sure of that. Right.
+Speaker B: Okay, so next, next week is our last week for session.
+Speaker A: Yeah, next week is our last week. Monday week is our last week. Okay. And then I guess then there would not be any coaching sessions. Okay. So I have seen immense improvement in you, but I would like to know what do you feel about the day that we have started and now you.
+Speaker B: Know, it's almost eight days definitely actually here. Okay. So many things we have done. So many things we have done. Okay, we have. First we have started conversation with others, right. Another one is we started learning vocabularies and other things which we were not working. We are. We were not learning. Okay. Earlier. Third one is at least we got some idea how to make sentences, how to present. Fourth one is as our last session, okay. We discussed that, how to write a mail. Okay. That. So this part I learned, okay. But still I'm thinking that I need to improve myself more because see, as per my knowledge, okay, I'm not still I'm not fluent, okay. But I'm trying to be. Okay. I have to become like definitely I want to because see in this position, okay, where I am, where I am here if I have to take next position. So definitely I have to learn, I have to move as per the market.
+Speaker A: So what improvements do you see in yourself?
+Speaker B: In, in my session, as I already told you, four improvement in you. Yes, in myself. Okay. That I have learned so many things from your end. Okay. At least as you also know, at least I'm trying to speak. But earlier because in this company I'm not talking about only myself. In this company, all 60 people are trying to speak. This is the big achievement literally because earlier nobody, nobody was speaking English. Yes, but now we are trying to conversation major improvement. Definitely we can say we cannot improve, we cannot use learn hundred percent in this session as you know also. Okay. But at least 50% we achieved right then. Because if we will do more and more practice, definitely we will learn.
+Speaker A: Great. So great. It was nice talking to you. I always look forwarded to our sessions. One step. Taking so much efforts, making so much efforts, right. And making sure that you, whatever action, whatever homework I give you is try to solve it diligently. All of you, thank you so much for your time. Okay, if you have any question because as I told you, I'm not sure about the next course of action.
+Speaker B: What is the problem?
+Speaker A: This we consider as our last interaction. If you have any question, you can always drop me an email saying that here I'm facing problem. I will make sure that I make some time.
+Speaker B: Thank you. Thank you very much. Okay.
+Speaker A: Do follow email tool. Okay. And keep reading about. So now you have improved, the language has improved. So keep reading about online HBR stuff that how to write emails, what to approach, what not to watch Ted videos, indian Ted videos. That will give you an idea how people present these sources online. Right? That will help you immensely. Not only to improve the vocabulary and your language knowledge.
+Speaker B: Can you please tell me some apps or some that chat videos I will.
+Speaker A: Definitely share with these sentences. I definitely share a few Ted videos.
+Speaker B: Yeah. Because actually if I will download the.
